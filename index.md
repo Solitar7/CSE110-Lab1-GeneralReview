@@ -32,7 +32,7 @@ in order to push changes.
 Finally, this is the [link to the review and intro repository](https://github.com/Solitar7/CSE110-Lab1-GeneralReview), 
 and [this](https://github.com/Solitar7/CSE110-Lab1-GeneralReview#cse110-lab1-generalreview) is the start of the [README.md](README.md) file.
 
-Confused by task list here:
+Confused by task list here: (successfully shown after uploaded to github, but still fail to be shown locally)
 - [ ] incomplete task
 - [x] complete task
 
